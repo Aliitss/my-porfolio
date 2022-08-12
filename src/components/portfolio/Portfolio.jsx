@@ -18,7 +18,7 @@ const data = [
     image: IMG3,
     tittle: 'Portfolio personal project',
     github: 'https://github.com/Aliitss/my-porfolio',
-    demo: 'https://www.linkedin.com/in/alessandra-bolivar-598944242/'
+    demo: 'https://portfolio-aliitss.netlify.app/'
   },
  
   {
