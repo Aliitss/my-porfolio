@@ -41,11 +41,11 @@ header {
 /* === IMG === */
 
 .me {
-    width: 22rem;
-    height: 30rem;
+    /* width: 22rem;
+    height: 30rem; */
     position: absolute;
-     left: calc(50% - 11rem);
-    margin-top: 4rem;
+    left: calc(50% - 11rem);
+    margin-top: 8rem;
     overflow: hidden;
     padding: 5rem 1.5rem 1.5rem 1.5rem;
 }

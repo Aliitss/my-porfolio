@@ -2,6 +2,7 @@ import React from 'react'
 import './Porfolio.css'
 import IMG1 from '../../assets/Portfolio1.png'
 import IMG2 from '../../assets/under-construction.jpg'
+import IMG3 from '../../assets/portfolio.png'
 
 const data = [
   {
@@ -14,9 +15,9 @@ const data = [
  
   {
     id: 2,
-    image: IMG2,
-    tittle: 'Portfolio Item Tittle',
-    github: 'https://github.com/Aliitss/PI-Pokemon-main',
+    image: IMG3,
+    tittle: 'Portfolio personal project',
+    github: 'https://github.com/Aliitss/my-porfolio',
     demo: 'https://www.linkedin.com/in/alessandra-bolivar-598944242/'
   },
  

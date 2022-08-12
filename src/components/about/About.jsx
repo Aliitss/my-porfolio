@@ -48,7 +48,9 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut libero pariatur minus impedit commodi doloribus quidem non sint accusantium voluptatum sunt natus odio eos inventore sequi, neque unde tenetur facilis!
+          Jr. Fullstack developer with a preference towards the frontend.
+          Passionate about architectural and graphic design.
+          I am looking for a position where I can combine and develop my skills as a developer and designer in the IT field.
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
 
